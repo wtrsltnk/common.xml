@@ -2,6 +2,8 @@
 #include <string>
 #include "xml.h"
 
+using namespace std;
+
 int main(int argc, char* argv[])
 {
     common::xml::XmlDocument doc;
